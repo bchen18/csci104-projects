@@ -1,0 +1,1 @@
+This is the HW8 104 assignment with Scrabble, added with AI.
