@@ -1,1 +1,1 @@
-This is the HW8 104 assignment with Scrabble, added with AI.
+This is the C++ Scrabble assignment. Uses scrabble executable to parse configuration file and create back-end instance of a Scrabble game. Board, tiles, squares, players, and player move instances are all custom classes. Game also includes AI CPU players for longest word and greatest score settings, which use backtracking to optimize determining moves.
